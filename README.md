@@ -1,0 +1,1 @@
+This is a remote hand sign detection app
